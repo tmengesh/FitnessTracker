@@ -1,0 +1,6 @@
+C:\Users\Tewodros\Desktop\Treehouse\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.config
+C:\Users\Tewodros\Desktop\Treehouse\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe
+C:\Users\Tewodros\Desktop\Treehouse\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.pdb
+C:\Users\Tewodros\Desktop\Treehouse\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csprojResolveAssemblyReference.cache
+C:\Users\Tewodros\Desktop\Treehouse\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
+C:\Users\Tewodros\Desktop\Treehouse\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
